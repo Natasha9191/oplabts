@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.snapedit.app	TRUE	/	FALSE	1999999999	__cf_bm	lGwFeiB84_2ZuG1krbXFcSSr4Iq3ID.59Fh21TJ.m8M-1707998937-1.0-AWlpAYM/bRfSkKrH+WHNATnhxQv5bDWJVlrQ3iHKZAsr2/N1wqu/IZKUO4CQ0qxTg+khdxwoO/DcOHPF1UwhZLs=
+snapedit.app	TRUE	/	FALSE	1999999999	SameSite	None
+
